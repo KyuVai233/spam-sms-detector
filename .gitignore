@@ -1,0 +1,18 @@
+# Python 虚拟环境
+venv/
+.venv/
+
+# 缓存
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时文件
+终端输入.txt
+*.log
+.DS_Store
